@@ -1,0 +1,6 @@
+{
+  "name": "Deskline IT Help Desk",
+  "description": "Centralized IT Help Desk & Customer Support Management System for managing support tickets, priority assignment, status tracking, and issue resolution across hardware, software, network, and account queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
